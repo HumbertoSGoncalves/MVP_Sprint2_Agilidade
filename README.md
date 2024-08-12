@@ -1,4 +1,4 @@
-# MVP_Sprint2_Agilidade
+# MVP_Sprint2_Agility
 **General Context of PriceSync**
 
 Small vendors face a common challenge in managing the prices of their products on e-commerce platforms, which often prevents them from digitizing their business and losing a crucial source of revenue through this sales channel. PriceSync emerges as a solution from Pricing Engine to address this problem, offering an efficient price management tool and integration with e-commerce platforms without the friction and complexities commonly encountered in this process.
