@@ -1,19 +1,20 @@
 # MVP_Sprint2_Agilidade
-**Contexto Geral do PriceSync**
-Pequenos vendedores enfrentam um desafio comum no processo de gerenciamento de preços de seus produtos em plataformas de comércio eletrônico, o que muitas vezes os impede de digitalizar o seu negócio, perdendo uma importantíssima fonte de receita através deste canal de vendas. O PriceSync surge como uma solução da empresa Pricing Engine para resolver esse problema, oferecendo uma ferramenta eficiente de gerenciamento de preços e integração com plataformas de e-commerce sem fricções e complexidades conhecidas durante este processo.
+**General Context of PriceSync**
+Small vendors face a common challenge in managing the prices of their products on e-commerce platforms, which often prevents them from digitizing their business and losing a crucial source of revenue through this sales channel. PriceSync emerges as a solution from Pricing Engine to address this problem, offering an efficient price management tool and integration with e-commerce platforms without the friction and complexities commonly encountered in this process.
 
-Para que este valor seja gerado e entregue aqueles que necessitam dele, existem diversas partes interessadas. Pode-se citar: 
-- representantes de plataformas de e-commerce, que são parcerias estratégicas para o PriceSync para que o serviço gere valor aos clientes;
-- investidores da empresa Pricing Engine, que são aqueles que querem acompanhar como os seus recursos estão sendo utilizados e o retorno sobre o investimento realizado;
-- diretoria da Pricing Engine, que está apostando que o novo produto será o grande sucesso da companhia;
-- time scrum que irá liderar o desenvolvimento do produto, composto pela equipe de desenvolvimento, scrum master, e product owner.
+Several stakeholders are involved in generating and delivering this value to those who need it. These include:
 
-O **time scrum** é composto pelos seguintes membros:
-- Humberto: o Product Owner, possui ótimas habilidades de comuicação, conhecimento do negócio da Pricing Engine e mercado de e-commerce, e compreensão sobre como tecnologia pode ser utilizada para resolver problemas de negócio;
-- Pedro: Desenvolvedor pleno da equipe de desenvolvimento, sua especialidade é em códigos relacionados ao frontend da aplicação;
-- Andre: Desenvolvedor sênior da equipe de desenvolvimento, possui habilidades tanto com backend quanto frontend, sendo que o desenvolvimento de backend é o seu ponto forte;
-- Rafael: Desenvolvedor júnior da equipe, sua principal função é montar os testes necessários enquanto aprende com os demais para dar os próximos passos na sua carreira;
-- Marcos: Scrum Master da equipe, garante um fluxo de trabalho produtivo, baseado no framework scrum para o dia a dia da equipe.
+	•	E-commerce platform representatives, who are strategic partners for PriceSync to ensure the service adds value to customers.
+	•	Investors in Pricing Engine who want to monitor how their resources are being used and the return on their investment.
+	•	The executive team at Pricing Engine, who are betting that the new product will be a great success for the company.
+	•	The scrum team leading the product development comprises the development team, scrum master, and product owner.
 
-O público alvo do PriceSync, pequenos vendedores que desejam se digitalizar e encontram dificuldades no gerenciamento de preços de seus produtos nas diversas plataformas de e-commerce, pode ocasionar um cliente diferente do usuário do produto. Pois existem casos de empresas em que o cliente será o dono da empresa, enquanto o usuário será o responsável por gerenciar a ferramenta PriceSync. Portanto o foco do produto se dá para que ambos entendam o valor adicionado na aquisição do serviço, sendo que o usuário será aquele que a coleta de feedback será diária, enquanto o cliente a coleta será de caráter mais esporádico.
+The **scrum team** consists of the following members:
 
+	•	Humberto: The Product Owner with excellent communication skills, knowledge of Pricing Engine’s business and the e-commerce market, and an understanding of how technology can solve business problems.
+	•	Pedro: Mid-level developer on the development team, specializing in frontend-related code.
+	•	Andre: Senior developer on the development team, skilled in both backend and frontend, with backend development being his strong suit.
+	•	Rafael: Junior developer on the team, primarily responsible for setting up necessary tests while learning from others to advance in his career.
+	•	Marcos: Scrum Master of the team, ensuring productive workflow based on the scrum framework for the team’s day-to-day activities.
+
+The target audience for PriceSync includes small vendors who want to digitize and face difficulties managing their product prices on various e-commerce platforms. This might result in a different client than the user of the product. For example, in some cases, the client may be the business owner, while the user will manage the PriceSync tool. Therefore, the product focus is to ensure that both understand the added value of acquiring the service, with the user providing daily feedback and the client providing more sporadic feedback.
